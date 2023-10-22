@@ -1,4 +1,4 @@
-# crispy-potato
+# Web Ad-Scraping-to-Speech
 ### Goal 
 The aim of this project is to create a simple web page where users can input a keyword (e.g., "iPhone" or "buy iPhone"). The application will then scrape the Google search result page to identify the first shopping ad related to that keyword and display its details. The scraped information should then be converted into an audio file using text-to-speech technology and played back to the user.
 
